@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.1",
+    "mocha": "^9.1.3"
+  }
+}
