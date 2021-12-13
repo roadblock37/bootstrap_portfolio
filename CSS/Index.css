@@ -1,3 +1,39 @@
-.titleName{
-    background-color: aqua;
+
+
+.btn{
+    background-color: #8C887E;
 }
+
+.body{
+    background-color: #333740;
+}
+
+.header{
+    color: #C5CCD9;
+    min-height: 100px;
+}
+
+.btn-group{
+    /* margin-right: 50px; */
+}
+
+/* Color Theme Swatches in Hex */
+.Grey-portfolio-1-hex { color: #333740; }
+.Grey-portfolio-2-hex { color: #C5CCD9; }
+.Grey-portfolio-3-hex { color: #7E838C; }
+.Grey-portfolio-4-hex { color: #403A2D; }
+.Grey-portfolio-5-hex { color: #8C887E; }
+
+/* Color Theme Swatches in RGBA */
+.Grey-portfolio-1-rgba { color: rgba(51, 55, 64, 1); }
+.Grey-portfolio-2-rgba { color: rgba(197, 204, 217, 1); }
+.Grey-portfolio-3-rgba { color: rgba(126, 131, 140, 1); }
+.Grey-portfolio-4-rgba { color: rgba(64, 58, 45, 1); }
+.Grey-portfolio-5-rgba { color: rgba(140, 136, 126, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Grey-portfolio-1-hsla { color: hsla(221, 11, 22, 1); }
+.Grey-portfolio-2-hsla { color: hsla(218, 20, 81, 1); }
+.Grey-portfolio-3-hsla { color: hsla(218, 5, 52, 1); }
+.Grey-portfolio-4-hsla { color: hsla(41, 17, 21, 1); }
+.Grey-portfolio-5-hsla { color: hsla(42, 5, 52, 1); }
